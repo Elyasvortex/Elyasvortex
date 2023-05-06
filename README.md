@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Vanilla Javascript,react,Sql**
 
-- 📫 How to reach me **eliusp@gmail.com**
+- 📫 How to reach me **eliusp8@gmail.com**
 
 - ⚡ Fun fact **if you are on the right path just keep going .**
 
