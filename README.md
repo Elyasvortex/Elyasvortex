@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">Hey There,I am a Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyasvortex&label=Profile%20views&color=0e75b6&style=flat" alt="elyasvortex" /> </p>
+ <img align='right' width='400' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="elyasvortex" /> </p>
 
 - 🔭 I’m currently learning **everything**
 
