@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **everything**
 
-- 💬 Ask me about **Vanilla Javascript,react,Sql**
+- 💬 Ask me about **Vanilla Javascript,react,Java,Sql**
 
 - 📫 How to reach me **eliusp8@gmail.com**
 
