@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **if you are on the right path just keep going .**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:elyasvortex.netlify.app</h3>
 <p align="left">
 </p>
 
