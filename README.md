@@ -9,7 +9,7 @@
 - 💬 Ask me about **Vanilla Javascript,react,Java,Sql**
 
 - 📫 How to reach me **eliusp8@gmail.com**
-- Click the url  **https://elyasvortex.netlify.app**
+- Click the url for a little view  **https://elyasvortex.netlify.app**
 
 - ⚡ Fun fact **if you are on the right path just keep going .**
 
