@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **everything**
 
-- 💬 Ask me about **Vanilla Javascript,react,Java,Sql**
+- 💬 Ask me about **Vanilla JS,React,Node,Java,Sql**
 
 - 📫 How to reach me **eliusp8@gmail.com**
 - Click the url for a little view  **https://elyasvortex.netlify.app**
