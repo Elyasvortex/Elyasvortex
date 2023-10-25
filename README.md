@@ -22,9 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elyasvortex&show_icons=true&locale=en&layout=compact" alt="elyasvortex" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elyasvortex&show_icons=true&locale=en" alt="elyasvortex" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elyasvortex&" alt="elyasvortex" /></p>
 
 
 
